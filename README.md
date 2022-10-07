@@ -1,6 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+# Alternating Least Squares in the Context of Recommender Systems and their Applications
+### Author: Isidora Conic, Northeastern University MSCS
+### Supervisor: Dr. Craig Martell
